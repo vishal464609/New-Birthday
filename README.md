@@ -1,4 +1,5 @@
 # 🎉 Interactive Birthday Blast Web Greeting
+<a href="https://hits.sh/github.com/sapthesh/New-Birthday/"><img alt="Hits" src="https://hits.sh/github.com/sapthesh/New-Birthday.svg?view=today-total&style=for-the-badge&color=fe7d37"/></a>
 
 A premium, multi-step progressive web greeting built to deliver a highly interactive and memorable birthday surprise. It features a sequence of suspense-building messages, an interactive party popper, a custom-built physics-based confetti engine, and a 3D tilt glassmorphism reveal card.
 
